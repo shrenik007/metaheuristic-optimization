@@ -22,7 +22,7 @@ distro-info===0.18ubuntu0.18.04.1
 docutils==0.15.2
 editdistance==0.5.3
 evdev==0.7.0
-Flask==0.12.2
+Flask==1.0
 gast==0.2.2
 gensim==3.8.1
 google-pasta==0.1.7
