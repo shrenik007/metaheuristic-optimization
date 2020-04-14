@@ -1,0 +1,8 @@
+How to execute:
+
+1. Open Terminal
+2. Navigate to folder where Doshi_R00183334_<algo>.py is extracted from the .zip file. Doshi_R00183334_GWSAT.py, Doshi_R00183334_WalkSAT, utils.py file should be on the same path
+3. Enter following command to execute the GWSAT solution
+python Doshi_R00183334_GWSAT.py data/uf20-01.cnf 30 10 1000 0.4
+4. Enter following command to execute the WalkSAT/SKC with Tabu search solution
+python Doshi_R00183334_WalkSAT.py data/uf20-01.cnf 30 10 1000 0.4 5

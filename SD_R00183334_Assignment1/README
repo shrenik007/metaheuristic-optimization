@@ -1,0 +1,6 @@
+How to execute:
+
+1. Open Terminal
+2. Navigate to folder where TSP_toStudents.py is extracted from the .zip file. Individual.py, TSP.py file should be on the same path
+3. Enter following command to execute the Genetic Algorithm solution
+python TSP_toStudents.py inst-0.tsp 500 0.1 300 '{"pop_generation_choice": 1, "selection_choice": 0, "crossover_choice": 0, "mutation_choice": 0}'

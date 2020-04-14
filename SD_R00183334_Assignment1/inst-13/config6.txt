@@ -1,0 +1,15 @@
+**********************CONFIG NUMBER 6****************************************
+Main iteration 0 started
+Time taken to for current iteration 0:09:45.738815 and best fitness is 142341079.1327092
+Main iteration 1 started
+Time taken to for current iteration 0:10:40.929276 and best fitness is 142610045.01077574
+Main iteration 2 started
+Time taken to for current iteration 0:10:25.777524 and best fitness is 145233133.13184178
+Main iteration 3 started
+Time taken to for current iteration 0:10:55.498830 and best fitness is 143853041.30559018
+Main iteration 4 started
+Time taken to for current iteration 0:10:43.761445 and best fitness is 142761232.9759015
+**************************************************************
+Population size=300, mutation rate= 0.15, max iterations=550
+Average fitness=143359706.31136367
+Total time taken to run all iterations 0:52:31.706097

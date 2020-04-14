@@ -1,0 +1,8 @@
+
+instance: uf2001
+Max executions: 30
+Max restarts: 10
+Max iterations (flips): 1000
+wp: 0.4
+total runtime: 0.6303048133850098
+Total valid solutions: 30
